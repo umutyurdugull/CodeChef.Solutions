@@ -13,6 +13,5 @@ int main()
         int c = n / totalSong;
         printf("%d\n",c);
     }
-
 return 0;
 }
